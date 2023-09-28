@@ -1,0 +1,106 @@
+body {
+    font-family: "M PLUS Rounded 1c";
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+	background-image: url("/png/back4.jpg");
+}
+
+#particles-js{ 
+	position:fixed;
+	z-index:-1;
+	width: 100%;
+	height: 100%;
+    pointer-events: none;
+}
+
+#particles-js-2{ 
+	position:fixed;
+	z-index:-1;
+	width: 100%;
+	height: 100%;
+    pointer-events: none;
+}
+
+#particles-js-3{ 
+	position:fixed;
+	z-index:-1;
+	width: 100%;
+	height: 100%;
+    pointer-events: none;
+}
+
+#particles-js-4{ 
+	position:fixed;
+	z-index:-1;
+	width: 100%;
+	height: 100%;
+    pointer-events: none;
+}
+
+#particles-js-5{ 
+	position:fixed;
+	z-index:-1;
+	width: 100%;
+	height: 100%;
+    pointer-events: none;
+}
+
+.main-title {
+	text-align: center;
+	margin-top: 32vh;
+}
+
+.top-area {
+	height: 0.1px;
+}
+
+.main-title h2 {
+	color: rgb(0, 132, 255);
+	font-size: 120px;
+	font-family: "ab-maruhanamaki", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	-webkit-text-stroke: 2px aliceblue;
+}
+
+#wrapper{
+	position: relative;
+	z-index: 1;
+	width:100%;
+	height: 100%;
+}
+
+.contents {
+    max-width: 1200px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.intro-area {
+	display: flex;
+	margin-top: 50vh;
+}
+
+.sentens-area {
+	font-size: 20px;
+}
+
+.sentens {
+	margin-top: -330px;
+	margin-left: 70px;
+	color: aliceblue;
+	font-weight: bold;
+}
+
+.frame {
+	width: 670px;
+	height: 400px;
+}
+
+.human-img {
+	width: 400px;
+	height: 400px;
+}
+
+
